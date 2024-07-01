@@ -1,3 +1,4 @@
+![Logo](https://github.com/KanikaSunaria/KanikaSunaria/blob/master/githubb.png)
 <h1 align="center">Hello! I'm Kanika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
