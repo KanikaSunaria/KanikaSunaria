@@ -1,7 +1,8 @@
 <h1 align="center">Hello! I'm Kanika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt:”coding” width=“400” src=“https://gifdb.com/images/high/animated-girl-hi-waving-zb3ltk28xwzxomxc.gif”>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-girl-hi-waving-zb3ltk28xwzxomxc.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanikasunaria&label=Profile%20views&color=0e75b6&style=flat" alt="kanikasunaria" /> </p>
 
